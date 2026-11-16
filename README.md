@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built on the **Olist Brazilian E-Commerce** public dataset (96,478 delivered orders, 2016–2018), answering key business questions about sales, payments and customer satisfaction.
 
-![KPIs](images/1_kpis.png)
+![KPIs](images/1_kpis.png?v=2)
 
 ## ❓ Business Questions
 - How did sales grow month by month?
@@ -32,9 +32,9 @@ Relational model connecting the 9 tables, with a dedicated Date table for time-b
 
 ## 💡 Key Insights
 
-![Monthly sales](images/2_monthly_sales.png)
+![Monthly sales](images/2_monthly_sales.png?v=2)
 
-![Payment types](images/3_payment_types.png)
+![Payment types](images/3_payment_types.png?v=2)
 
 - **R$ 15.4M** total sales across **96,478** delivered orders
 - Sales grew fast: **Jan–Aug 2018 was +143%** vs the same months of 2017
