@@ -44,7 +44,7 @@ Relational model connecting the 9 tables, with a dedicated Date table for time-b
 - Average review score: **4.09 / 5**
 
 ## ▶️ How to Open
-1. Download `Brazilian_E-Commerce.pbix` from the [Releases](../../releases) page
+1. Download `Brazilian.E-Commerce.pbix` from the [Releases](../../releases) page
 2. Open it in **Power BI Desktop** (Windows)
 3. To refresh the data, download the CSVs from the [Kaggle dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and update the file paths in Power Query
 
@@ -54,7 +54,7 @@ Power BI Desktop · DAX · Data Modeling
 ## 📁 Files
 | File | Description |
 |---|---|
-| `Brazilian_E-Commerce.pbix` | Power BI report file (download from [Releases](../../releases)) |
+| `Brazilian.E-Commerce.pbix` | Power BI report file (download from [Releases](../../releases)) |
 | `images/` | KPI and chart images |
 
 ## 👩‍💼 Author
